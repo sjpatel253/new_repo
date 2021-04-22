@@ -1,4 +1,4 @@
 - hosts:
-    - web1 web2 db1 db2
+    - all
   tasks:
     - action: ping
